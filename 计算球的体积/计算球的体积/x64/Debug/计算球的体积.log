@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\xlc29\Desktop\代码\计算球的体积\源.cpp(7,11): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\xlc29\Desktop\代码\计算球的体积\源.cpp(9,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  计算球的体积.vcxproj -> C:\Users\xlc29\Desktop\代码\计算球的体积\x64\Debug\计算球的体积.exe
